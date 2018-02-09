@@ -1,0 +1,19 @@
+{
+  "name": "pro1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test",
+    "your-custom-script": "echo npm"
+  },
+  "author": "",
+  "license": "ISC"
+}
